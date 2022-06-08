@@ -1,9 +1,9 @@
+concluiuEnsinoFundamental(pedro).
 concluiuEnsinoFundamental(julia).
 concluiuEnsinoFundamental(giovanna).
 concluiuEnsinoFundamental(andre).
 concluiuEnsinoFundamental(gabriel).
 concluiuEnsinoFundamental(fernanda).
-concluiuEnsinoFundamental(pedro).
 
 concluiuEnsinoMedio(julia).
 concluiuEnsinoMedio(pedro).
@@ -19,7 +19,7 @@ nota(gabriel,430).
 
 acimaNotaCorte(X) :- nota(X, Y), Y >= 720.75.
    
-podeEntrarEnsinoSuperior(X) :-
+podeEntrarEnsinoSuperior(X) :- 
     concluiuEnsinoFundamental(X),
     concluiuEnsinoMedio(X),
     acimaNotaCorte(X).
