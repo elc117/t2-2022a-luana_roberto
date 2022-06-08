@@ -1,3 +1,12 @@
+<h3>Material</h3>
+<p>
+  <a href="https://github.com/elc117/t2-2022a-luana_roberto/blob/main/Processo%20de%20execu%C3%A7%C3%A3o%20de%20programas%20em%20Prolog.pdf
+">Slides (.pdf)</a>.
+</p>
+<p>
+  <a href="https://docs.google.com/presentation/d/1z50Z8Zjir3NL22ktXou9STDgxGMUXJoo7hX7Tbove0M/edit?usp=sharing">Slides (Google Presentation)(utilize conta @acad.ufsm.br)</a>.
+</p>
+
 <h3>Código de exemplo</h3>
 <p>
   Acesse o arquivo <a href="https://github.com/elc117/t2-2022a-luana_roberto/blob/main/exemplo.pl">exemplo.pl</a>.
